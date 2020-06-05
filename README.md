@@ -1,6 +1,6 @@
 # git-project-two
 
->my code change for the project
+>my scary merge conflict code
 
 ## im in the feature branch
 
